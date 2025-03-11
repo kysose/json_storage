@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is often considered as a grass, even though botanically it is a berry?",
+      "choices": [
+        { "text": "Apple", "value": 0 },
+        { "text": "Banana", "value": 1 },
+        { "text": "Carrot", "value": 0 },
+        { "text": "Pomegranate", "value": 0 }
+      ]
+    },
+    {
+      "question": "Which star, that was discovered in 1990, is the largest currently known?",
+      "choices": [
+        { "text": "UY Scuti", "value": 0 },
+        { "text": "VY Canis Majoris", "value": 0 },
+        { "text": "Stephenson 2-18", "value": 1 },
+        { "text": "WOH G64", "value": 0 }
+      ]
+    },
+    {
+      "question": "Who performs the song 'LOST IN PARADISE' featured in anime series 'Jujutsu Kaisen'?",
+      "choices": [
+        { "text": "ALI", "value": 1 },
+        { "text": "Masayuki Suzuki", "value": 0 },
+        { "text": "SawanoHiroyuki[nZk]", "value": 0 },
+        { "text": "BUMP OF CHICKEN", "value": 0 }
+      ]
+    },
+    {
+      "question": "What is the capital of Assyria?",
+      "choices": [
+        { "text": "Babylon", "value": 0 },
+        { "text": "Nineveh", "value": 0 },
+        { "text": "Nimrud", "value": 0 },
+        { "text": "Ashur", "value": 1 }
+      ]
+    }
+  ]
+}
